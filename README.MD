@@ -2,8 +2,8 @@
 
 ## Abstract:
 [//]: <>
+Given a comp image, I built out a static website to match. 
  
-
 ## Installation Instructions:
 [//]: <> 
 1. Fork and clone [this repo](https://github.com/jfogiato/soloStaticComp)
@@ -14,18 +14,8 @@
 
 ## Preview of App:
 [//]: <> 
-
-
-## Context:
-[//]: <> 
-
+![image](https://user-images.githubusercontent.com/57634618/220160127-7d350fe0-79c7-47b7-8a2f-48d62eaf92b8.png)
 
 ## Contributors:
 [//]: <> 
 [Joseph 'Joe' Fogiato](https://github.com/jfogiato)
-
-## Learning Goals:
-[//]: <> 
-
-## Wins + Challenges:
-[//]: <>
